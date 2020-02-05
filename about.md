@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a neuroscientist at Harvard University in [Bence Olveczky's lab](https://olveczkylab.oeb.harvard.edu/) studying motor skill learning. I did my PhD at MIT with [Mriganka Sur](https://www.surlab.org/) studying visual decision-making.
 
 ### Contact me
 
