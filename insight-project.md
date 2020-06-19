@@ -1,5 +1,5 @@
 ---
-permalink: /insight-project
-redirect_to:
-  - http://www.google.com
+layout: redirect
+permalink: /insight-project/
+redirect: http://www.google.com
 ---
