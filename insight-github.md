@@ -9,4 +9,5 @@ Sorry! My Insight Project Github repository is currently private as I await appr
 Once approval is received, this page will redirect to the public Github repository.
 
 Thanks for your patience, 
+
 Gerald
