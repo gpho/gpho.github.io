@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Little Pony Chinese Podcast</title>
+    <link>https://gpho.github.io/podcasts/mlp-chinese-private.xml</link>
+    <atom:link href="https://gpho.github.io/podcasts/mlp-chinese-private.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
+    <itunes:author>Gerald Pho</itunes:author>
+    <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
+    <itunes:subtitle>My Little Pony Chinese Podcast</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Gerald Pho</itunes:name>
+      <itunes:email>private@example.invalid</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://gpho.github.io/images/mlp-chinese-podcast.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>MLP S2E1 | 无序迷宫与和谐之源</title>
+      <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
+      <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
+      <itunes:subtitle>MLP S2E1 | 无序迷宫与和谐之源</itunes:subtitle>
+      <pubDate>Sat, 04 Apr 2026 16:45:00 -0400</pubDate>
+      <guid isPermaLink="false">mlp-s2e1</guid>
+      <link>https://notebooklm.google.com/notebook/a618745f-62f0-4058-8894-5a99ba3462d2</link>
+      <enclosure url="https://www.dropbox.com/scl/fi/1k9kwejqn2bvp9h11epr6/mlp-s2e1.m4a?rlkey=t2r7mxpxpynnfks1bebqnfl6u&amp;dl=0" length="8567205" type="audio/mp4" />
+      <itunes:duration>04:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
