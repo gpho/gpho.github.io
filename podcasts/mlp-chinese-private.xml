@@ -18,15 +18,39 @@
     <itunes:image href="https://gpho.github.io/images/mlp-chinese-podcast.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>MLP S2E1 | 无序迷宫与和谐之源</title>
+      <title>MLP S1E1 | 用派对拯救世界</title>
       <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
       <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
-      <itunes:subtitle>MLP S2E1 | 无序迷宫与和谐之源</itunes:subtitle>
-      <pubDate>Sat, 04 Apr 2026 16:45:00 -0400</pubDate>
-      <guid isPermaLink="false">mlp-s2e1</guid>
-      <link>https://notebooklm.google.com/notebook/a618745f-62f0-4058-8894-5a99ba3462d2</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=151h_9hQBkkGLsho55PbjUHX6WffxVOlg&amp;export=download" length="8567205" type="audio/mp4" />
-      <itunes:duration>04:26</itunes:duration>
+      <itunes:subtitle>MLP S1E1 | 用派对拯救世界</itunes:subtitle>
+      <pubDate>Sun, 05 Apr 2026 20:55:00 +0000</pubDate>
+      <guid isPermaLink="false">mlp-s1e1</guid>
+      <link>https://notebooklm.google.com/notebook/dc1dadbe-7fc9-4111-bc76-b12012c06a10</link>
+      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1B8IgEJ8oelnjqtRQWgajoxy6zVe22MyE&amp;export=download" length="27911258" type="audio/mp4" />
+      <itunes:duration>14:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MLP S1E2 | 用友谊战胜梦魇之月</title>
+      <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
+      <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
+      <itunes:subtitle>MLP S1E2 | 用友谊战胜梦魇之月</itunes:subtitle>
+      <pubDate>Sun, 05 Apr 2026 20:56:00 +0000</pubDate>
+      <guid isPermaLink="false">mlp-s1e2</guid>
+      <link>https://notebooklm.google.com/notebook/805d0530-6311-4266-8354-ceddbc472686</link>
+      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1gGI7QiBgCX_brcr6QAcd1GrJXqI1jkmR&amp;export=download" length="17135881" type="audio/mp4" />
+      <itunes:duration>08:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MLP S1E3 | 小马宝莉门票里的五个词</title>
+      <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
+      <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
+      <itunes:subtitle>MLP S1E3 | 小马宝莉门票里的五个词</itunes:subtitle>
+      <pubDate>Sun, 05 Apr 2026 20:57:00 +0000</pubDate>
+      <guid isPermaLink="false">mlp-s1e3</guid>
+      <link>https://notebooklm.google.com/notebook/b3fc6dee-5639-4f6d-be33-00d266afe959</link>
+      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1jOBxXIo9uiJ2WKO8fQxdkIdmMQhWtcVS&amp;export=download" length="9803271" type="audio/mp4" />
+      <itunes:duration>05:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
