@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Little Lamb Bible Story Index</title>
+  <link rel="stylesheet" href="./site.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <section class="hero">
+      <p class="eyebrow">Little Lamb Bible Stories</p>
+      <h1>Search the podcast by Bible book, chapter, or title</h1>
+      <p class="hero-copy">
+        Browse the Protestant Bible in order, or search bilingual titles, pinyin,
+        and references across the full podcast archive.
+      </p>
+      <div class="hero-actions">
+        <label class="search-wrap" for="search-input">
+          <span>Search</span>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Try Genesis 22, Jonah, Ruth, 亚伯拉罕, ya bola han"
+            autocomplete="off"
+          />
+        </label>
+        <button id="clear-search" class="ghost-button" type="button">Clear</button>
+      </div>
+    </section>
+
+    <section class="layout-grid">
+      <aside class="panel books-panel">
+        <div class="panel-header">
+          <h2>Books</h2>
+          <p id="book-summary">Loading...</p>
+        </div>
+        <div id="book-list" class="book-list"></div>
+      </aside>
+
+      <section class="panel browser-panel">
+        <div class="panel-header">
+          <h2 id="browser-title">Browse</h2>
+          <p id="browser-summary">Choose a book and chapter.</p>
+        </div>
+        <div id="chapter-list" class="chapter-list"></div>
+        <div id="chapter-results" class="results-grid"></div>
+      </section>
+
+      <section class="panel search-panel">
+        <div class="panel-header">
+          <h2>Search Results</h2>
+          <p id="search-summary">Type to search the archive.</p>
+        </div>
+        <div id="search-results" class="results-grid empty-state">
+          Search results will appear here.
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <template id="episode-card-template">
+    <article class="episode-card">
+      <div class="episode-topline">
+        <span class="episode-date"></span>
+        <span class="episode-confidence"></span>
+      </div>
+      <h3 class="episode-title"></h3>
+      <p class="episode-subtitle"></p>
+      <p class="episode-reference"></p>
+      <p class="episode-notes"></p>
+      <div class="episode-links">
+        <a class="audio-link" target="_blank" rel="noreferrer">Audio</a>
+        <a class="source-link" target="_blank" rel="noreferrer">Source</a>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
