@@ -123,5 +123,29 @@
             <itunes:duration>11:30</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
-    </channel>
+    <item>
+      <title>MLP S1E10 | Swarm of the Century | 会背词不等于会沟通</title>
+      <description>Ponyville prepares for Princess Celestia&apos;s visit, but Pinkie Pie&apos;s fascination with parasprites turns into a town-wide infestation that forces everypony to improvise a cure.</description>
+      <itunes:summary>Ponyville prepares for Princess Celestia&apos;s visit, but Pinkie Pie&apos;s fascination with parasprites turns into a town-wide infestation that forces everypony to improvise a cure.</itunes:summary>
+      <itunes:subtitle>MLP S1E10 | Swarm of the Century | 会背词不等于会沟通</itunes:subtitle>
+      <pubDate>Wed, 08 Apr 2026 19:20:00 +0000</pubDate>
+      <guid isPermaLink="false">mlp-s1e10</guid>
+      <link>https://notebooklm.google.com/notebook/bc991df5-5b04-4ca0-a3c8-ad6164f0e98e</link>
+      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1mOabg_gbgyLvWzqP5l63Kbbmt-HC8O4q&amp;export=download" length="10824074" type="audio/mp4" />
+      <itunes:duration>05:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MLP S1E11 | Winter Wrap Up | 紫悦靠条理拯救春天</title>
+      <description>During Ponyville&apos;s annual winter clean-up, Twilight Sparkle struggles to help without magic until her talent for planning and coordination becomes exactly what the town needs.</description>
+      <itunes:summary>During Ponyville&apos;s annual winter clean-up, Twilight Sparkle struggles to help without magic until her talent for planning and coordination becomes exactly what the town needs.</itunes:summary>
+      <itunes:subtitle>MLP S1E11 | Winter Wrap Up | 紫悦靠条理拯救春天</itunes:subtitle>
+      <pubDate>Wed, 08 Apr 2026 19:21:00 +0000</pubDate>
+      <guid isPermaLink="false">mlp-s1e11</guid>
+      <link>https://notebooklm.google.com/notebook/d304676f-ed86-4d4d-989d-61543950073e</link>
+      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1xKfp-Csw-u3TjuapgFh1WRM1zhZSXFTI&amp;export=download" length="8356541" type="audio/mp4" />
+      <itunes:duration>04:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
 </rss>
