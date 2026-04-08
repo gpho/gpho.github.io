@@ -1,117 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My Little Pony Chinese Podcast</title>
-    <link>https://gpho.github.io/podcasts/mlp-chinese-private.xml</link>
-    <atom:link href="https://gpho.github.io/podcasts/mlp-chinese-private.xml" rel="self" type="application/rss+xml" />
-    <language>en-us</language>
-    <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
-    <itunes:author>Gerald Pho</itunes:author>
-    <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
-    <itunes:subtitle>My Little Pony Chinese Podcast</itunes:subtitle>
-    <itunes:owner>
-      <itunes:name>Gerald Pho</itunes:name>
-      <itunes:email>private@example.invalid</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://gpho.github.io/images/mlp-chinese-podcast.jpg" />
-    <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>MLP S1E1 | Friendship Is Magic, Part 1 | 用派对拯救世界</title>
-      <description>Twilight Sparkle arrives in Ponyville to oversee the Summer Sun Celebration, but a forgotten warning about Nightmare Moon turns a routine visit into the start of a larger crisis. In the transcript, the hosts stop to explain five Chinese terms: 梦魇之月 (mèng yǎn zhī yuè), “Nightmare Moon,” a name tied to frightening dreams and the moon; 放逐 (fàng zhú), “banishment” or forced exile; 预言 (yù yán), “prophecy,” a warning spoken in advance; 灭顶之灾 (miè dǐng zhī zāi), a catastrophic disaster overwhelming enough to destroy everything; and 和谐之源 (hé xié zhī yuán), the source or power of harmony that can unite everyone.</description>
-      <itunes:summary>Twilight Sparkle arrives in Ponyville to oversee the Summer Sun Celebration, but a forgotten warning about Nightmare Moon turns a routine visit into the start of a larger crisis. In the transcript, the hosts stop to explain five Chinese terms: 梦魇之月 (mèng yǎn zhī yuè), “Nightmare Moon,” a name tied to frightening dreams and the moon; 放逐 (fàng zhú), “banishment” or forced exile; 预言 (yù yán), “prophecy,” a warning spoken in advance; 灭顶之灾 (miè dǐng zhī zāi), a catastrophic disaster overwhelming enough to destroy everything; and 和谐之源 (hé xié zhī yuán), the source or power of harmony that can unite everyone.</itunes:summary>
-      <itunes:subtitle>MLP S1E1 | Friendship Is Magic, Part 1 | 用派对拯救世界</itunes:subtitle>
-      <pubDate>Sun, 05 Apr 2026 20:55:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e1</guid>
-      <link>https://notebooklm.google.com/notebook/dc1dadbe-7fc9-4111-bc76-b12012c06a10</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1B8IgEJ8oelnjqtRQWgajoxy6zVe22MyE&amp;export=download" length="27911258" type="audio/mp4" />
-      <itunes:duration>14:27</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E2 | Friendship Is Magic, Part 2 | 用友谊战胜梦魇之月</title>
-      <description>Twilight and her new friends journey into the Everfree Forest, recover the Elements of Harmony, and defeat Nightmare Moon, turning a looming disaster into the foundation of their friendship. In the transcript, the hosts explain five Chinese terms: 梦魇 (mèng yǎn), a terrifying nightmare; 和谐 (hé xié), harmony among people who work well together; 慷慨 (kāng kǎi), generosity shown by giving something valuable; 忠诚 (zhōng chéng), loyalty that refuses to abandon friends; and 友谊 (yǒu yì), friendship as the bond that makes the group strong.</description>
-      <itunes:summary>Twilight and her new friends journey into the Everfree Forest, recover the Elements of Harmony, and defeat Nightmare Moon, turning a looming disaster into the foundation of their friendship. In the transcript, the hosts explain five Chinese terms: 梦魇 (mèng yǎn), a terrifying nightmare; 和谐 (hé xié), harmony among people who work well together; 慷慨 (kāng kǎi), generosity shown by giving something valuable; 忠诚 (zhōng chéng), loyalty that refuses to abandon friends; and 友谊 (yǒu yì), friendship as the bond that makes the group strong.</itunes:summary>
-      <itunes:subtitle>MLP S1E2 | Friendship Is Magic, Part 2 | 用友谊战胜梦魇之月</itunes:subtitle>
-      <pubDate>Sun, 05 Apr 2026 20:56:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e2</guid>
-      <link>https://notebooklm.google.com/notebook/805d0530-6311-4266-8354-ceddbc472686</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1gGI7QiBgCX_brcr6QAcd1GrJXqI1jkmR&amp;export=download" length="17135881" type="audio/mp4" />
-      <itunes:duration>08:52</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E3 | The Ticket Master | 小马宝莉门票里的五个词</title>
-      <description>Twilight Sparkle receives two Grand Galloping Gala tickets and watches her friends compete for them, learning how quickly generosity, pressure, and expectations can strain a friendship. In the transcript, the hosts explain five Chinese terms: 邀请 (yāo qǐng), “invite” or “invitation”; 庆典 (qìng diǎn), a grand celebration; 跟踪 (gēn zōng), following someone around; 负担 (fù dān), a burden or heavy pressure; and 绝技 (jué jì), a special skill or signature trick.</description>
-      <itunes:summary>Twilight Sparkle receives two Grand Galloping Gala tickets and watches her friends compete for them, learning how quickly generosity, pressure, and expectations can strain a friendship. In the transcript, the hosts explain five Chinese terms: 邀请 (yāo qǐng), “invite” or “invitation”; 庆典 (qìng diǎn), a grand celebration; 跟踪 (gēn zōng), following someone around; 负担 (fù dān), a burden or heavy pressure; and 绝技 (jué jì), a special skill or signature trick.</itunes:summary>
-      <itunes:subtitle>MLP S1E3 | The Ticket Master | 小马宝莉门票里的五个词</itunes:subtitle>
-      <pubDate>Sun, 05 Apr 2026 20:57:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e3</guid>
-      <link>https://notebooklm.google.com/notebook/b3fc6dee-5639-4f6d-be33-00d266afe959</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1jOBxXIo9uiJ2WKO8fQxdkIdmMQhWtcVS&amp;export=download" length="9803271" type="audio/mp4" />
-      <itunes:duration>05:05</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E4 | Applebuck Season | 拒绝求助的代价</title>
-      <description>Applejack tries to harvest Sweet Apple Acres alone after Big McIntosh is injured, but exhaustion and pride turn her promises to help around Ponyville into a chain of disasters. In the transcript, the hosts explain five Chinese terms: 单枪匹马 (dān qiāng pǐ mǎ), doing something single-handedly; 不在状态 (bú zài zhuàng tài), being too tired or off your game; 食物中毒 (shí wù zhòng dú), food poisoning; 固执 (gù zhí), stubbornness; and 自尊心 (zì zūn xīn), pride or self-esteem that can block asking for help.</description>
-      <itunes:summary>Applejack tries to harvest Sweet Apple Acres alone after Big McIntosh is injured, but exhaustion and pride turn her promises to help around Ponyville into a chain of disasters. In the transcript, the hosts explain five Chinese terms: 单枪匹马 (dān qiāng pǐ mǎ), doing something single-handedly; 不在状态 (bú zài zhuàng tài), being too tired or off your game; 食物中毒 (shí wù zhòng dú), food poisoning; 固执 (gù zhí), stubbornness; and 自尊心 (zì zūn xīn), pride or self-esteem that can block asking for help.</itunes:summary>
-      <itunes:subtitle>MLP S1E4 | Applebuck Season | 拒绝求助的代价</itunes:subtitle>
-      <pubDate>Mon, 06 Apr 2026 14:28:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e4</guid>
-      <link>https://notebooklm.google.com/notebook/17b27da2-c701-460e-8154-dc814223e606</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=172DidwKn9p7AhKcE-HiexV5DwIfLcSiy&amp;export=download" length="9430383" type="audio/mp4" />
-      <itunes:duration>04:53</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E5 | Griffon the Brush Off | 简单词看透社交真相</title>
-      <description>Pinkie Pie and Rainbow Dash bond over pranks until Rainbow Dash&apos;s rude griffon friend Gilda arrives, forcing Rainbow to decide what kind of friendship she wants to keep. In the transcript, the discussion highlights five Chinese terms: 嫉妒 (jí dù), jealousy; 态度 (tài dù), someone&apos;s attitude or manner; 真假 (zhēn jiǎ), what is real versus fake; 自私 (zì sī), selfishness; and 原谅 (yuán liàng), forgiveness after someone has acted badly.</description>
-      <itunes:summary>Pinkie Pie and Rainbow Dash bond over pranks until Rainbow Dash&apos;s rude griffon friend Gilda arrives, forcing Rainbow to decide what kind of friendship she wants to keep. In the transcript, the discussion highlights five Chinese terms: 嫉妒 (jí dù), jealousy; 态度 (tài dù), someone&apos;s attitude or manner; 真假 (zhēn jiǎ), what is real versus fake; 自私 (zì sī), selfishness; and 原谅 (yuán liàng), forgiveness after someone has acted badly.</itunes:summary>
-      <itunes:subtitle>MLP S1E5 | Griffon the Brush Off | 简单词看透社交真相</itunes:subtitle>
-      <pubDate>Mon, 06 Apr 2026 14:39:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e5</guid>
-      <link>https://notebooklm.google.com/notebook/0ee10b82-0e8b-472a-a83f-cdbf3e8a80a8</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1hAyg-z8adeFNACs5KweXvknip5SiWi59&amp;export=download" length="10256093" type="audio/mp4" />
-      <itunes:duration>05:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E6 | Boast Busters | 基础才是真魔法</title>
-      <description>Trixie dazzles Ponyville with theatrical magic and humiliates Twilight&apos;s friends, but when an Ursa Minor appears, Twilight solves the crisis and exposes the difference between real skill and empty boasting. In the transcript, the hosts focus on five Chinese terms: 基础 (jī chǔ), foundation; 词汇 (cí huì), vocabulary or building blocks of language; 炫耀 (xuàn yào), boastful showing off; 谦卑 (qiān bēi), humility; and 实力 (shí lì), real strength or ability.</description>
-      <itunes:summary>Trixie dazzles Ponyville with theatrical magic and humiliates Twilight&apos;s friends, but when an Ursa Minor appears, Twilight solves the crisis and exposes the difference between real skill and empty boasting. In the transcript, the hosts focus on five Chinese terms: 基础 (jī chǔ), foundation; 词汇 (cí huì), vocabulary or building blocks of language; 炫耀 (xuàn yào), boastful showing off; 谦卑 (qiān bēi), humility; and 实力 (shí lì), real strength or ability.</itunes:summary>
-      <itunes:subtitle>MLP S1E6 | Boast Busters | 基础才是真魔法</itunes:subtitle>
-      <pubDate>Mon, 06 Apr 2026 15:14:36 -0400</pubDate>
-      <guid isPermaLink="false">mlp-s1e6</guid>
-      <link>https://notebooklm.google.com/notebook/1a73f322-c187-4b74-a7d2-8c146c061284</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1cj_593mljjl_MSvDZuINTfTxRGi8u_8w&amp;export=download" length="10330165" type="audio/mp4" />
-      <itunes:duration>05:21</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E8 | Look Before You Sleep | 小马宝莉暴雨心理课</title>
-      <description>A storm strands Applejack and Rarity together for a sleepover at Twilight Sparkle&apos;s library, where clashing habits and pride turn a simple overnight stay into a lesson in patience and compromise. In the transcript, the hosts explain five Chinese terms: 一团糟 (yì tuán zāo), a total mess; 穷讲究 (qióng jiǎng jiū), being fussy about the wrong details; 睡衣派对 (shuì yī pài duì), a sleepover party; 真心话大冒险 (zhēn xīn huà dà mào xiǎn), the game Truth or Dare; and 鸡毛蒜皮 (jī máo suàn pí), tiny trivial matters that should not become the main focus.</description>
-      <itunes:summary>A storm strands Applejack and Rarity together for a sleepover at Twilight Sparkle&apos;s library, where clashing habits and pride turn a simple overnight stay into a lesson in patience and compromise. In the transcript, the hosts explain five Chinese terms: 一团糟 (yì tuán zāo), a total mess; 穷讲究 (qióng jiǎng jiū), being fussy about the wrong details; 睡衣派对 (shuì yī pài duì), a sleepover party; 真心话大冒险 (zhēn xīn huà dà mào xiǎn), the game Truth or Dare; and 鸡毛蒜皮 (jī máo suàn pí), tiny trivial matters that should not become the main focus.</itunes:summary>
-      <itunes:subtitle>MLP S1E8 | Look Before You Sleep | 小马宝莉暴雨心理课</itunes:subtitle>
-      <pubDate>Mon, 07 Apr 2026 18:07:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e8</guid>
-      <link>https://notebooklm.google.com/notebook/d8dcbd62-3e25-43bc-89be-b63585ce94d3</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1KAXvR3Q1uBbjJ-UuvHR5fCkXucdrS2V3&amp;export=download" length="23902751" type="audio/mp4" />
-      <itunes:duration>12:23</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>MLP S1E9 | Bridle Gossip | 听小马宝莉故事学会不以貌取人</title>
-      <description>When Zecora visits Ponyville, fear and gossip spread faster than facts, and the ponies must learn not to judge appearances after Poison Joke exposes their own mistakes. In the transcript, the hosts explain five Chinese terms: 无缘无故 (wú yuán wú gù), for no reason; 道听途说 (dào tīng tú shuō), hearsay or rumors; 胡言乱语 (hú yán luàn yǔ), talking nonsense; 超自然 (chāo zì rán), supernatural; and 以貌取人 (yǐ mào qǔ rén), judging people by appearance.</description>
-      <itunes:summary>When Zecora visits Ponyville, fear and gossip spread faster than facts, and the ponies must learn not to judge appearances after Poison Joke exposes their own mistakes. In the transcript, the hosts explain five Chinese terms: 无缘无故 (wú yuán wú gù), for no reason; 道听途说 (dào tīng tú shuō), hearsay or rumors; 胡言乱语 (hú yán luàn yǔ), talking nonsense; 超自然 (chāo zì rán), supernatural; and 以貌取人 (yǐ mào qǔ rén), judging people by appearance.</itunes:summary>
-      <itunes:subtitle>MLP S1E9 | Bridle Gossip | 听小马宝莉故事学会不以貌取人</itunes:subtitle>
-      <pubDate>Mon, 07 Apr 2026 18:08:00 +0000</pubDate>
-      <guid isPermaLink="false">mlp-s1e9</guid>
-      <link>https://notebooklm.google.com/notebook/a68c28d8-0010-4108-b1db-9078aaa4ab7a</link>
-      <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1z2keC6jkfYuW8rz-GXZEk54kOmimcaF-&amp;export=download" length="22204153" type="audio/mp4" />
-      <itunes:duration>11:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-  </channel>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>My Little Pony Chinese Podcast</title>
+        <link>https://gpho.github.io/podcasts/mlp-chinese-private.xml</link>
+        <atom:link href="https://gpho.github.io/podcasts/mlp-chinese-private.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <description>NotebookLM-generated discussion of Chinese episodes of My Little Pony</description>
+        <itunes:author>Gerald Pho</itunes:author>
+        <itunes:summary>NotebookLM-generated discussion of Chinese episodes of My Little Pony</itunes:summary>
+        <itunes:subtitle>My Little Pony Chinese Podcast</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Gerald Pho</itunes:name>
+            <itunes:email>private@example.invalid</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://gpho.github.io/images/mlp-chinese-podcast.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>MLP S1E1 | Friendship Is Magic, Part 1 | 用派对拯救世界</title>
+            <description>Twilight Sparkle arrives in Ponyville to oversee the Summer Sun Celebration, but a forgotten warning about Nightmare Moon turns a routine visit into the start of a larger crisis. In the transcript, the hosts stop to explain five Chinese terms: 梦魇之月 (mèng yǎn zhī yuè), “Nightmare Moon,” a name tied to frightening dreams and the moon; 放逐 (fàng zhú), “banishment” or forced exile; 预言 (yù yán), “prophecy,” a warning spoken in advance; 灭顶之灾 (miè dǐng zhī zāi), a catastrophic disaster overwhelming enough to destroy everything; and 和谐之源 (hé xié zhī yuán), the source or power of harmony that can unite everyone.</description>
+            <itunes:summary>Twilight Sparkle arrives in Ponyville to oversee the Summer Sun Celebration, but a forgotten warning about Nightmare Moon turns a routine visit into the start of a larger crisis. In the transcript, the hosts stop to explain five Chinese terms: 梦魇之月 (mèng yǎn zhī yuè), “Nightmare Moon,” a name tied to frightening dreams and the moon; 放逐 (fàng zhú), “banishment” or forced exile; 预言 (yù yán), “prophecy,” a warning spoken in advance; 灭顶之灾 (miè dǐng zhī zāi), a catastrophic disaster overwhelming enough to destroy everything; and 和谐之源 (hé xié zhī yuán), the source or power of harmony that can unite everyone.</itunes:summary>
+            <itunes:subtitle>MLP S1E1 | Friendship Is Magic, Part 1 | 用派对拯救世界</itunes:subtitle>
+            <pubDate>Sun, 05 Apr 2026 20:55:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e1</guid>
+            <link>https://notebooklm.google.com/notebook/dc1dadbe-7fc9-4111-bc76-b12012c06a10</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1B8IgEJ8oelnjqtRQWgajoxy6zVe22MyE&amp;export=download" length="27911258" type="audio/mp4" />
+            <itunes:duration>14:27</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E2 | Friendship Is Magic, Part 2 | 用友谊战胜梦魇之月</title>
+            <description>Twilight and her new friends journey into the Everfree Forest, recover the Elements of Harmony, and defeat Nightmare Moon, turning a looming disaster into the foundation of their friendship. In the transcript, the hosts explain five Chinese terms: 梦魇 (mèng yǎn), a terrifying nightmare; 和谐 (hé xié), harmony among people who work well together; 慷慨 (kāng kǎi), generosity shown by giving something valuable; 忠诚 (zhōng chéng), loyalty that refuses to abandon friends; and 友谊 (yǒu yì), friendship as the bond that makes the group strong.</description>
+            <itunes:summary>Twilight and her new friends journey into the Everfree Forest, recover the Elements of Harmony, and defeat Nightmare Moon, turning a looming disaster into the foundation of their friendship. In the transcript, the hosts explain five Chinese terms: 梦魇 (mèng yǎn), a terrifying nightmare; 和谐 (hé xié), harmony among people who work well together; 慷慨 (kāng kǎi), generosity shown by giving something valuable; 忠诚 (zhōng chéng), loyalty that refuses to abandon friends; and 友谊 (yǒu yì), friendship as the bond that makes the group strong.</itunes:summary>
+            <itunes:subtitle>MLP S1E2 | Friendship Is Magic, Part 2 | 用友谊战胜梦魇之月</itunes:subtitle>
+            <pubDate>Sun, 05 Apr 2026 20:56:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e2</guid>
+            <link>https://notebooklm.google.com/notebook/805d0530-6311-4266-8354-ceddbc472686</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1gGI7QiBgCX_brcr6QAcd1GrJXqI1jkmR&amp;export=download" length="17135881" type="audio/mp4" />
+            <itunes:duration>08:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E3 | The Ticket Master | 小马宝莉门票里的五个词</title>
+            <description>Twilight Sparkle receives two Grand Galloping Gala tickets and watches her friends compete for them, learning how quickly generosity, pressure, and expectations can strain a friendship. In the transcript, the hosts explain five Chinese terms: 邀请 (yāo qǐng), “invite” or “invitation”; 庆典 (qìng diǎn), a grand celebration; 跟踪 (gēn zōng), following someone around; 负担 (fù dān), a burden or heavy pressure; and 绝技 (jué jì), a special skill or signature trick.</description>
+            <itunes:summary>Twilight Sparkle receives two Grand Galloping Gala tickets and watches her friends compete for them, learning how quickly generosity, pressure, and expectations can strain a friendship. In the transcript, the hosts explain five Chinese terms: 邀请 (yāo qǐng), “invite” or “invitation”; 庆典 (qìng diǎn), a grand celebration; 跟踪 (gēn zōng), following someone around; 负担 (fù dān), a burden or heavy pressure; and 绝技 (jué jì), a special skill or signature trick.</itunes:summary>
+            <itunes:subtitle>MLP S1E3 | The Ticket Master | 小马宝莉门票里的五个词</itunes:subtitle>
+            <pubDate>Sun, 05 Apr 2026 20:57:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e3</guid>
+            <link>https://notebooklm.google.com/notebook/b3fc6dee-5639-4f6d-be33-00d266afe959</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1jOBxXIo9uiJ2WKO8fQxdkIdmMQhWtcVS&amp;export=download" length="9803271" type="audio/mp4" />
+            <itunes:duration>05:05</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E4 | Applebuck Season | 拒绝求助的代价</title>
+            <description>Applejack tries to harvest Sweet Apple Acres alone after Big McIntosh is injured, but exhaustion and pride turn her promises to help around Ponyville into a chain of disasters. In the transcript, the hosts explain five Chinese terms: 单枪匹马 (dān qiāng pǐ mǎ), doing something single-handedly; 不在状态 (bú zài zhuàng tài), being too tired or off your game; 食物中毒 (shí wù zhòng dú), food poisoning; 固执 (gù zhí), stubbornness; and 自尊心 (zì zūn xīn), pride or self-esteem that can block asking for help.</description>
+            <itunes:summary>Applejack tries to harvest Sweet Apple Acres alone after Big McIntosh is injured, but exhaustion and pride turn her promises to help around Ponyville into a chain of disasters. In the transcript, the hosts explain five Chinese terms: 单枪匹马 (dān qiāng pǐ mǎ), doing something single-handedly; 不在状态 (bú zài zhuàng tài), being too tired or off your game; 食物中毒 (shí wù zhòng dú), food poisoning; 固执 (gù zhí), stubbornness; and 自尊心 (zì zūn xīn), pride or self-esteem that can block asking for help.</itunes:summary>
+            <itunes:subtitle>MLP S1E4 | Applebuck Season | 拒绝求助的代价</itunes:subtitle>
+            <pubDate>Mon, 06 Apr 2026 14:28:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e4</guid>
+            <link>https://notebooklm.google.com/notebook/17b27da2-c701-460e-8154-dc814223e606</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=172DidwKn9p7AhKcE-HiexV5DwIfLcSiy&amp;export=download" length="9430383" type="audio/mp4" />
+            <itunes:duration>04:53</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E5 | Griffon the Brush Off | 简单词看透社交真相</title>
+            <description>Pinkie Pie and Rainbow Dash bond over pranks until Rainbow Dash's rude griffon friend Gilda arrives, forcing Rainbow to decide what kind of friendship she wants to keep. In the transcript, the discussion highlights five Chinese terms: 嫉妒 (jí dù), jealousy; 态度 (tài dù), someone's attitude or manner; 真假 (zhēn jiǎ), what is real versus fake; 自私 (zì sī), selfishness; and 原谅 (yuán liàng), forgiveness after someone has acted badly.</description>
+            <itunes:summary>Pinkie Pie and Rainbow Dash bond over pranks until Rainbow Dash's rude griffon friend Gilda arrives, forcing Rainbow to decide what kind of friendship she wants to keep. In the transcript, the discussion highlights five Chinese terms: 嫉妒 (jí dù), jealousy; 态度 (tài dù), someone's attitude or manner; 真假 (zhēn jiǎ), what is real versus fake; 自私 (zì sī), selfishness; and 原谅 (yuán liàng), forgiveness after someone has acted badly.</itunes:summary>
+            <itunes:subtitle>MLP S1E5 | Griffon the Brush Off | 简单词看透社交真相</itunes:subtitle>
+            <pubDate>Mon, 06 Apr 2026 14:39:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e5</guid>
+            <link>https://notebooklm.google.com/notebook/0ee10b82-0e8b-472a-a83f-cdbf3e8a80a8</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1hAyg-z8adeFNACs5KweXvknip5SiWi59&amp;export=download" length="10256093" type="audio/mp4" />
+            <itunes:duration>05:19</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E6 | Boast Busters | 基础才是真魔法</title>
+            <description>Trixie dazzles Ponyville with theatrical magic and humiliates Twilight's friends, but when an Ursa Minor appears, Twilight solves the crisis and exposes the difference between real skill and empty boasting. In the transcript, the hosts focus on five Chinese terms: 基础 (jī chǔ), foundation; 词汇 (cí huì), vocabulary or building blocks of language; 炫耀 (xuàn yào), boastful showing off; 谦卑 (qiān bēi), humility; and 实力 (shí lì), real strength or ability.</description>
+            <itunes:summary>Trixie dazzles Ponyville with theatrical magic and humiliates Twilight's friends, but when an Ursa Minor appears, Twilight solves the crisis and exposes the difference between real skill and empty boasting. In the transcript, the hosts focus on five Chinese terms: 基础 (jī chǔ), foundation; 词汇 (cí huì), vocabulary or building blocks of language; 炫耀 (xuàn yào), boastful showing off; 谦卑 (qiān bēi), humility; and 实力 (shí lì), real strength or ability.</itunes:summary>
+            <itunes:subtitle>MLP S1E6 | Boast Busters | 基础才是真魔法</itunes:subtitle>
+            <pubDate>Mon, 06 Apr 2026 15:14:36 -0400</pubDate>
+            <guid isPermaLink="false">mlp-s1e6</guid>
+            <link>https://notebooklm.google.com/notebook/1a73f322-c187-4b74-a7d2-8c146c061284</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1cj_593mljjl_MSvDZuINTfTxRGi8u_8w&amp;export=download" length="10330165" type="audio/mp4" />
+            <itunes:duration>05:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E7 | Dragonshy | 柔柔竟吼退巨龙</title>
+            <description>Fluttershy joins the trip up the mountain to ask a sleeping dragon to move, and the episode turns her fear into a lesson about quiet courage. The Chinese podcast follows how the group reacts to the dragon, how Fluttershy finally speaks up, and how gentle persistence succeeds where force fails.</description>
+            <itunes:summary>Fluttershy joins the trip up the mountain to ask a sleeping dragon to move, and the episode turns her fear into a lesson about quiet courage. The Chinese podcast follows how the group reacts to the dragon, how Fluttershy finally speaks up, and how gentle persistence succeeds where force fails.</itunes:summary>
+            <itunes:subtitle>MLP S1E7 | Dragonshy | 柔柔竟吼退巨龙</itunes:subtitle>
+            <pubDate>Mon, 06 Apr 2026 15:20:00 -0400</pubDate>
+            <guid isPermaLink="false">mlp-s1e7</guid>
+            <link>https://notebooklm.google.com/notebook/5de6f184-092a-41fb-96b0-f24b0168a0f6</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1sOd7D8aRdItASyLxkFfzyGR0BM6n9RxD&amp;export=download" length="9584273" type="audio/mp4" />
+            <itunes:duration>04:58</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E8 | Look Before You Sleep | 小马宝莉暴雨心理课</title>
+            <description>A storm strands Applejack and Rarity together for a sleepover at Twilight Sparkle's library, where clashing habits and pride turn a simple overnight stay into a lesson in patience and compromise. In the transcript, the hosts explain five Chinese terms: 一团糟 (yì tuán zāo), a total mess; 穷讲究 (qióng jiǎng jiū), being fussy about the wrong details; 睡衣派对 (shuì yī pài duì), a sleepover party; 真心话大冒险 (zhēn xīn huà dà mào xiǎn), the game Truth or Dare; and 鸡毛蒜皮 (jī máo suàn pí), tiny trivial matters that should not become the main focus.</description>
+            <itunes:summary>A storm strands Applejack and Rarity together for a sleepover at Twilight Sparkle's library, where clashing habits and pride turn a simple overnight stay into a lesson in patience and compromise. In the transcript, the hosts explain five Chinese terms: 一团糟 (yì tuán zāo), a total mess; 穷讲究 (qióng jiǎng jiū), being fussy about the wrong details; 睡衣派对 (shuì yī pài duì), a sleepover party; 真心话大冒险 (zhēn xīn huà dà mào xiǎn), the game Truth or Dare; and 鸡毛蒜皮 (jī máo suàn pí), tiny trivial matters that should not become the main focus.</itunes:summary>
+            <itunes:subtitle>MLP S1E8 | Look Before You Sleep | 小马宝莉暴雨心理课</itunes:subtitle>
+            <pubDate>Mon, 07 Apr 2026 18:07:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e8</guid>
+            <link>https://notebooklm.google.com/notebook/d8dcbd62-3e25-43bc-89be-b63585ce94d3</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1KAXvR3Q1uBbjJ-UuvHR5fCkXucdrS2V3&amp;export=download" length="23902751" type="audio/mp4" />
+            <itunes:duration>12:23</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>MLP S1E9 | Bridle Gossip | 听小马宝莉故事学会不以貌取人</title>
+            <description>When Zecora visits Ponyville, fear and gossip spread faster than facts, and the ponies must learn not to judge appearances after Poison Joke exposes their own mistakes. In the transcript, the hosts explain five Chinese terms: 无缘无故 (wú yuán wú gù), for no reason; 道听途说 (dào tīng tú shuō), hearsay or rumors; 胡言乱语 (hú yán luàn yǔ), talking nonsense; 超自然 (chāo zì rán), supernatural; and 以貌取人 (yǐ mào qǔ rén), judging people by appearance.</description>
+            <itunes:summary>When Zecora visits Ponyville, fear and gossip spread faster than facts, and the ponies must learn not to judge appearances after Poison Joke exposes their own mistakes. In the transcript, the hosts explain five Chinese terms: 无缘无故 (wú yuán wú gù), for no reason; 道听途说 (dào tīng tú shuō), hearsay or rumors; 胡言乱语 (hú yán luàn yǔ), talking nonsense; 超自然 (chāo zì rán), supernatural; and 以貌取人 (yǐ mào qǔ rén), judging people by appearance.</itunes:summary>
+            <itunes:subtitle>MLP S1E9 | Bridle Gossip | 听小马宝莉故事学会不以貌取人</itunes:subtitle>
+            <pubDate>Mon, 07 Apr 2026 18:08:00 +0000</pubDate>
+            <guid isPermaLink="false">mlp-s1e9</guid>
+            <link>https://notebooklm.google.com/notebook/a68c28d8-0010-4108-b1db-9078aaa4ab7a</link>
+            <enclosure url="https://drive.usercontent.google.com/u/0/uc?id=1z2keC6jkfYuW8rz-GXZEk54kOmimcaF-&amp;export=download" length="22204153" type="audio/mp4" />
+            <itunes:duration>11:30</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
 </rss>
