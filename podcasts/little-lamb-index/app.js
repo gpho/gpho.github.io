@@ -23,12 +23,19 @@ function confidenceClass(confidence) {
   return confidence === "low" ? "low" : "";
 }
 
+function readerClass(readerKey) {
+  return readerKey === "qingqing-jiejie" ? "reader-qingqing" : "reader-xiafan";
+}
+
 function buildEpisodeCard(episode) {
   const fragment = elements.template.content.cloneNode(true);
   fragment.querySelector(".episode-date").textContent = episode.displayDate;
   const confidence = fragment.querySelector(".episode-confidence");
   confidence.textContent = episode.confidence || "unknown";
   confidence.className = `episode-confidence ${confidenceClass(episode.confidence)}`.trim();
+  const reader = fragment.querySelector(".episode-reader");
+  reader.textContent = episode.readerShortLabel || episode.readerLabel || "Unknown reader";
+  reader.className = `episode-reader ${readerClass(episode.readerKey)}`.trim();
   fragment.querySelector(".episode-title").textContent = `${episode.titleZh} | ${episode.titleEn}`;
   fragment.querySelector(".episode-subtitle").textContent = episode.pinyin;
   fragment.querySelector(".episode-reference").textContent = episode.reference;
