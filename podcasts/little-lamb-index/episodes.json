@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-04-11T23:35:10.243Z",
-  "episodeCount": 379,
+  "generatedAtUtc": "2026-04-11T23:54:10.077Z",
+  "episodeCount": 380,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,33 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260412",
+      "date": "20260412",
+      "displayDate": "2026-04-12",
+      "pubDate": "Sun, 12 Apr 2026 00:00:00 +0800",
+      "titleZh": "温柔的地主波阿斯",
+      "titleEn": "Boaz, the Gentle Landowner",
+      "pinyin": "wēn róu de dì zhǔ bō ā sī",
+      "reference": "Ruth 2",
+      "confidence": "high",
+      "notes": "Whisper transcript explicitly says '圣经路德记的故事第二集 温柔的地主波阿斯' and then narrates Ruth and Naomi returning to Bethlehem, barley harvest, the gleaning law, and Ruth going into the fields, which places the episode in Ruth 2.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260412.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=136520&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "Ruth",
+          "chapters": [
+            2
+          ]
+        }
+      ],
+      "searchText": "温柔的地主波阿斯 boaz, the gentle landowner wēn róu de dì zhǔ bō ā sī ruth 2 whisper transcript explicitly says '圣经路德记的故事第二集 温柔的地主波阿斯' and then narrates ruth and naomi returning to bethlehem, barley harvest, the gleaning law, and ruth going into the fields, which places the episode in ruth 2. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260405",
       "date": "20260405",
