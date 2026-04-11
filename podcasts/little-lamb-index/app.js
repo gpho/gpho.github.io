@@ -19,10 +19,6 @@ const elements = {
   template: document.getElementById("episode-card-template")
 };
 
-function confidenceClass(confidence) {
-  return confidence === "low" ? "low" : "";
-}
-
 function readerClass(readerKey) {
   return readerKey === "qingqing-jiejie" ? "reader-qingqing" : "reader-xiafan";
 }
@@ -30,16 +26,19 @@ function readerClass(readerKey) {
 function buildEpisodeCard(episode) {
   const fragment = elements.template.content.cloneNode(true);
   fragment.querySelector(".episode-date").textContent = episode.displayDate;
-  const confidence = fragment.querySelector(".episode-confidence");
-  confidence.textContent = episode.confidence || "unknown";
-  confidence.className = `episode-confidence ${confidenceClass(episode.confidence)}`.trim();
   const reader = fragment.querySelector(".episode-reader");
-  reader.textContent = episode.readerShortLabel || episode.readerLabel || "Unknown reader";
+  reader.textContent = episode.readerLabel ? episode.readerLabel.split("|")[0].trim() : "未知";
   reader.className = `episode-reader ${readerClass(episode.readerKey)}`.trim();
   fragment.querySelector(".episode-title").textContent = `${episode.titleZh} | ${episode.titleEn}`;
-  fragment.querySelector(".episode-subtitle").textContent = episode.pinyin;
+  const subtitle = fragment.querySelector(".episode-subtitle");
+  subtitle.remove();
   fragment.querySelector(".episode-reference").textContent = episode.reference;
-  fragment.querySelector(".episode-notes").textContent = episode.notes || "";
+  const notes = fragment.querySelector(".episode-notes");
+  if (episode.notes) {
+    notes.textContent = episode.notes;
+  } else {
+    notes.remove();
+  }
   const audio = fragment.querySelector(".audio-link");
   audio.href = episode.audioUrl;
   const source = fragment.querySelector(".source-link");

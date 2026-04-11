@@ -265,13 +265,9 @@ body {
   gap: 8px;
 }
 
-.episode-reader,
-.episode-confidence {
+.episode-reader {
   padding: 4px 8px;
   border-radius: 999px;
-}
-
-.episode-reader {
   font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: none;
@@ -288,16 +284,6 @@ body {
   background: var(--reader-xiafan-bg);
   color: var(--reader-xiafan-ink);
   border-color: var(--reader-xiafan-line);
-}
-
-.episode-confidence {
-  background: rgba(88, 99, 76, 0.12);
-  color: var(--olive);
-}
-
-.episode-confidence.low {
-  background: rgba(159, 47, 36, 0.12);
-  color: var(--accent);
 }
 
 .episode-title {
