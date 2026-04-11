@@ -31,7 +31,7 @@ function buildEpisodeCard(episode) {
   reader.className = `episode-reader ${readerClass(episode.readerKey)}`.trim();
   fragment.querySelector(".episode-title").textContent = `${episode.titleZh} | ${episode.titleEn}`;
   const subtitle = fragment.querySelector(".episode-subtitle");
-  subtitle.remove();
+  subtitle.textContent = episode.pinyin;
   fragment.querySelector(".episode-reference").textContent = episode.reference;
   const notes = fragment.querySelector(".episode-notes");
   if (episode.notes) {
