@@ -6,10 +6,12 @@
   --accent: #9f2f24;
   --accent-soft: #d66f47;
   --olive: #58634c;
-  --reader-qingqing-bg: rgba(191, 78, 88, 0.14);
+  --reader-qingqing-bg: #f7d7dd;
   --reader-qingqing-ink: #8f2335;
-  --reader-xiafan-bg: rgba(45, 92, 130, 0.14);
+  --reader-qingqing-line: #d98998;
+  --reader-xiafan-bg: #d7ebf7;
   --reader-xiafan-ink: #1f5d82;
+  --reader-xiafan-line: #88b6d5;
   --line: rgba(31, 27, 22, 0.12);
   --shadow: 0 24px 60px rgba(71, 44, 15, 0.12);
 }
@@ -72,11 +74,14 @@ body {
   display: inline-flex;
   align-items: center;
   margin-left: 10px;
-  padding: 4px 10px;
+  margin-top: 8px;
+  padding: 6px 12px;
   border-radius: 999px;
+  border: 1px solid transparent;
   font-size: 0.84rem;
   font-weight: 700;
   letter-spacing: 0.02em;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.45);
 }
 
 .hero-actions {
@@ -270,16 +275,19 @@ body {
   font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: none;
+  border: 1px solid transparent;
 }
 
 .reader-qingqing {
   background: var(--reader-qingqing-bg);
   color: var(--reader-qingqing-ink);
+  border-color: var(--reader-qingqing-line);
 }
 
 .reader-xiafan {
   background: var(--reader-xiafan-bg);
   color: var(--reader-xiafan-ink);
+  border-color: var(--reader-xiafan-line);
 }
 
 .episode-confidence {
@@ -347,6 +355,12 @@ body {
 @media (max-width: 700px) {
   .setup-grid {
     grid-template-columns: 1fr;
+  }
+
+  .reader-legend {
+    display: flex;
+    width: fit-content;
+    margin-left: 0;
   }
 
   .episode-topline {
