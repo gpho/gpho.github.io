@@ -33,6 +33,7 @@ function buildEpisodeCard(episode) {
   const subtitle = fragment.querySelector(".episode-subtitle");
   subtitle.textContent = episode.pinyin;
   fragment.querySelector(".episode-reference").textContent = episode.reference;
+  fragment.querySelector(".episode-hsk").textContent = `Estimated HSK: ${episode.hskEstimate}`;
   const notes = fragment.querySelector(".episode-notes");
   if (episode.notes) {
     notes.textContent = episode.notes;

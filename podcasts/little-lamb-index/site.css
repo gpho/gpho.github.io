@@ -294,6 +294,7 @@ body {
 
 .episode-subtitle,
 .episode-reference,
+.episode-hsk,
 .episode-notes {
   margin: 10px 0 0;
   color: var(--muted);
@@ -302,6 +303,10 @@ body {
 
 .episode-reference {
   color: var(--ink);
+  font-weight: 700;
+}
+
+.episode-hsk {
   font-weight: 700;
 }
 
