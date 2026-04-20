@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-04-12T00:30:37.394Z",
-  "episodeCount": 380,
+  "generatedAtUtc": "2026-04-20T02:04:49.437Z",
+  "episodeCount": 381,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,36 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260419",
+      "date": "20260419",
+      "displayDate": "2026-04-19",
+      "pubDate": "Sun, 19 Apr 2026 00:00:00 +0800",
+      "titleZh": "逃出毁灭之城",
+      "titleEn": "Escape from the City of Destruction",
+      "pinyin": "táo chū huǐ miè zhī chéng",
+      "reference": "Genesis 13:5-13; 18:16-33; 19:1-29",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "The transcript explicitly names Lot and Abraham, describes Lot choosing the Jordan plain and moving near Sodom, identifies Sodom as deeply wicked, and says someone kept caring and praying for Lot so he escaped danger, which matches Abraham's intercession and Lot's rescue from Sodom.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260419.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=136667&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "Genesis",
+          "chapters": [
+            13,
+            18,
+            19
+          ]
+        }
+      ],
+      "searchText": "逃出毁灭之城 escape from the city of destruction táo chū huǐ miè zhī chéng genesis 13:5-13; 18:16-33; 19:1-29 hsk 5 the transcript explicitly names lot and abraham, describes lot choosing the jordan plain and moving near sodom, identifies sodom as deeply wicked, and says someone kept caring and praying for lot so he escaped danger, which matches abraham's intercession and lot's rescue from sodom. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260412",
       "date": "20260412",
@@ -1615,7 +1645,7 @@
       "id": "20250420",
       "date": "20250420",
       "displayDate": "2025-04-20",
-      "pubDate": "Sun, 20 Apr 2025 00:00:00 +0800",
+      "pubDate": "Sun, 20 Apr 2025 12:00:00 GMT",
       "titleZh": "最后的晚餐",
       "titleEn": "The Last Supper",
       "pinyin": "zuì hòu de wǎn cān",
@@ -1627,7 +1657,7 @@
       "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
       "readerShortLabel": "Qing Qing Jie Jie",
       "audioUrl": "https://a.pcly.work/ly/audio/2025/cs/cs250420.mp3",
-      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=125580&Itemid=502",
+      "sourcePageUrl": "",
       "sourceType": "feed",
       "books": [
         {
@@ -1649,7 +1679,7 @@
       "id": "20250413",
       "date": "20250413",
       "displayDate": "2025-04-13",
-      "pubDate": "Sun, 13 Apr 2025 00:00:00 +0800",
+      "pubDate": "Sun, 13 Apr 2025 12:00:00 GMT",
       "titleZh": "耶稣为门徒洗脚",
       "titleEn": "Jesus Washes the Disciples' Feet",
       "pinyin": "yē sū wèi mén tú xǐ jiǎo",
@@ -1661,7 +1691,7 @@
       "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
       "readerShortLabel": "Qing Qing Jie Jie",
       "audioUrl": "https://a.pcly.work/ly/audio/2025/cs/cs250413.mp3",
-      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=125415&Itemid=502",
+      "sourcePageUrl": "",
       "sourceType": "feed",
       "books": [
         {
