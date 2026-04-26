@@ -12642,5 +12642,39 @@ Original audio URL: https://a.pcly.work/ly/audio/2026/cs/cs260419.mp3</itunes:su
       <itunes:duration>14:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>20260426 会说话的驴子 | The Talking Donkey (Numbers 22-24)</title>
+      <description>会说话的驴子 | The Talking Donkey (Numbers 22-24)
+Story reader: 青青姐姐 | Qing Qing Jie Jie
+Estimated HSK: HSK 5
+Original Chinese title: 会说话的驴子
+Chinese title pinyin: huì shuō huà de lǘ zǐ
+Original source title: 小羊圣经故事-20260426
+English title: The Talking Donkey
+Bible reference: Numbers 22-24
+Review confidence: high
+Review notes: Transcript explicitly names Balak, Balaam, the donkey seeing the angel, repeated failed attempts to curse Israel, and the oracles that bless Israel instead. The intended title phrase is clearly the talking donkey despite the ASR reading &apos;女子&apos;.
+Original episode page: https://f.pcly.work/index.php?option=com_sermonspeaker&amp;view=sermon&amp;id=136849&amp;Itemid=502
+Original audio URL: https://a.pcly.work/ly/audio/2026/cs/cs260426.mp3</description>
+      <itunes:summary>会说话的驴子 | The Talking Donkey (Numbers 22-24)
+Story reader: 青青姐姐 | Qing Qing Jie Jie
+Estimated HSK: HSK 5
+Original Chinese title: 会说话的驴子
+Chinese title pinyin: huì shuō huà de lǘ zǐ
+Original source title: 小羊圣经故事-20260426
+English title: The Talking Donkey
+Bible reference: Numbers 22-24
+Review confidence: high
+Review notes: Transcript explicitly names Balak, Balaam, the donkey seeing the angel, repeated failed attempts to curse Israel, and the oracles that bless Israel instead. The intended title phrase is clearly the talking donkey despite the ASR reading &apos;女子&apos;.
+Original episode page: https://f.pcly.work/index.php?option=com_sermonspeaker&amp;view=sermon&amp;id=136849&amp;Itemid=502
+Original audio URL: https://a.pcly.work/ly/audio/2026/cs/cs260426.mp3</itunes:summary>
+      <itunes:subtitle>会说话的驴子 | The Talking Donkey (Numbers 22-24)</itunes:subtitle>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0800</pubDate>
+      <guid isPermaLink="false">private-mirror:20260426</guid>
+      <link>https://f.pcly.work/index.php?option=com_sermonspeaker&amp;view=sermon&amp;id=136849&amp;Itemid=502</link>
+      <enclosure url="https://a.pcly.work/ly/audio/2026/cs/cs260426.mp3" length="6931392" type="audio/mpeg" />
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

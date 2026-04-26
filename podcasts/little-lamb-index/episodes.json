@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-04-20T02:04:49.437Z",
-  "episodeCount": 381,
+  "generatedAtUtc": "2026-04-26T11:48:30.104Z",
+  "episodeCount": 382,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,36 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260426",
+      "date": "20260426",
+      "displayDate": "2026-04-26",
+      "pubDate": "Sun, 26 Apr 2026 00:00:00 +0800",
+      "titleZh": "会说话的驴子",
+      "titleEn": "The Talking Donkey",
+      "pinyin": "huì shuō huà de lǘ zǐ",
+      "reference": "Numbers 22-24",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "Transcript explicitly names Balak, Balaam, the donkey seeing the angel, repeated failed attempts to curse Israel, and the oracles that bless Israel instead. The intended title phrase is clearly the talking donkey despite the ASR reading '女子'.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260426.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=136849&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "Numbers",
+          "chapters": [
+            22,
+            23,
+            24
+          ]
+        }
+      ],
+      "searchText": "会说话的驴子 the talking donkey huì shuō huà de lǘ zǐ numbers 22-24 hsk 5 transcript explicitly names balak, balaam, the donkey seeing the angel, repeated failed attempts to curse israel, and the oracles that bless israel instead. the intended title phrase is clearly the talking donkey despite the asr reading '女子'. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260419",
       "date": "20260419",
