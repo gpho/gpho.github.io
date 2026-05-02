@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-04-26T11:48:30.104Z",
-  "episodeCount": 382,
+  "generatedAtUtc": "2026-05-02T21:04:53.902Z",
+  "episodeCount": 383,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,35 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260503",
+      "date": "20260503",
+      "displayDate": "2026-05-03",
+      "pubDate": "Sun, 03 May 2026 00:00:00 +0800",
+      "titleZh": "哈娜的愿望",
+      "titleEn": "Hannah's Wish",
+      "pinyin": "hā nà de yuàn wàng",
+      "reference": "1 Samuel 1:1-2:21",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "The intro explicitly says '今天的故事，哈娜的愿望'. The transcript names Elkanah, Peninnah, Eli, and Samuel, and it narrates Hannah's prayer for a son, Samuel's birth and naming, his dedication after weaning, Hannah's song, and the later blessing of additional children.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260503.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=137061&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "1 Samuel",
+          "chapters": [
+            1,
+            2
+          ]
+        }
+      ],
+      "searchText": "哈娜的愿望 hannah's wish hā nà de yuàn wàng 1 samuel 1:1-2:21 hsk 5 the intro explicitly says '今天的故事，哈娜的愿望'. the transcript names elkanah, peninnah, eli, and samuel, and it narrates hannah's prayer for a son, samuel's birth and naming, his dedication after weaning, hannah's song, and the later blessing of additional children. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260426",
       "date": "20260426",
@@ -1646,7 +1675,7 @@
       "id": "20250427",
       "date": "20250427",
       "displayDate": "2025-04-27",
-      "pubDate": "Sun, 27 Apr 2025 00:00:00 +0800",
+      "pubDate": "Sun, 27 Apr 2025 12:00:00 GMT",
       "titleZh": "耶稣被审问",
       "titleEn": "Jesus Is Tried",
       "pinyin": "yē sū bèi shěn wèn",
@@ -1658,7 +1687,7 @@
       "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
       "readerShortLabel": "Qing Qing Jie Jie",
       "audioUrl": "https://a.pcly.work/ly/audio/2025/cs/cs250427.mp3",
-      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=125838&Itemid=502",
+      "sourcePageUrl": "",
       "sourceType": "feed",
       "books": [
         {
