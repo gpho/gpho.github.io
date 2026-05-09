@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-05-02T21:04:53.902Z",
-  "episodeCount": 383,
+  "generatedAtUtc": "2026-05-09T21:29:55.144Z",
+  "episodeCount": 384,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,35 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260510",
+      "date": "20260510",
+      "displayDate": "2026-05-10",
+      "pubDate": "Sun, 10 May 2026 00:00:00 +0800",
+      "titleZh": "谁在呼唤你",
+      "titleEn": "Who Is Calling You?",
+      "pinyin": "shuí zài hū huàn nǐ",
+      "reference": "1 Samuel 2:11-26; 3:1-21",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "The intro explicitly says '今天的故事，谁在呼唤你'. The transcript also names Hannah, Elkanah, Eli, Hophni and Phinehas, Samuel serving in Shiloh, the repeated nighttime call of Samuel, Eli teaching him to answer, and God's message about judgment on Eli's house. The previous 2026-05-03 episode is Hannah's story, so the local sequence also supports a move into Samuel's call.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260510.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=137226&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "1 Samuel",
+          "chapters": [
+            2,
+            3
+          ]
+        }
+      ],
+      "searchText": "谁在呼唤你 who is calling you? shuí zài hū huàn nǐ 1 samuel 2:11-26; 3:1-21 hsk 5 the intro explicitly says '今天的故事，谁在呼唤你'. the transcript also names hannah, elkanah, eli, hophni and phinehas, samuel serving in shiloh, the repeated nighttime call of samuel, eli teaching him to answer, and god's message about judgment on eli's house. the previous 2026-05-03 episode is hannah's story, so the local sequence also supports a move into samuel's call. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260503",
       "date": "20260503",
@@ -1641,7 +1670,7 @@
       "id": "20250504",
       "date": "20250504",
       "displayDate": "2025-05-04",
-      "pubDate": "Sun, 04 May 2025 00:00:00 +0800",
+      "pubDate": "Sun, 04 May 2025 12:00:00 GMT",
       "titleZh": "耶稣被钉十字架",
       "titleEn": "Jesus Is Crucified",
       "pinyin": "yē sū bèi dīng shí zì jià",
@@ -1653,7 +1682,7 @@
       "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
       "readerShortLabel": "Qing Qing Jie Jie",
       "audioUrl": "https://a.pcly.work/ly/audio/2025/cs/cs250504.mp3",
-      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=126021&Itemid=502",
+      "sourcePageUrl": "",
       "sourceType": "feed",
       "books": [
         {
