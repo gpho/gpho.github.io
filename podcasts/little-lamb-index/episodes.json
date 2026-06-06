@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-05-09T21:29:55.144Z",
-  "episodeCount": 384,
+  "generatedAtUtc": "2026-06-06T21:04:42.146Z",
+  "episodeCount": 385,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,34 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260607",
+      "date": "20260607",
+      "displayDate": "2026-06-07",
+      "pubDate": "Sun, 07 Jun 2026 00:00:00 +0800",
+      "titleZh": "着急的扫罗王",
+      "titleEn": "Anxious King Saul",
+      "pinyin": "zháo jí de sǎo luó wáng",
+      "reference": "1 Samuel 13:1-15",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "The transcript explicitly names Saul as Israel's first king, recounts his victory over the Ammonites, then moves to the Philistine conflict at Gilgal where Samuel tells him to wait seven days. Saul grows anxious, offers the sacrifice himself, and Samuel rebukes him for not keeping the command. The episode title is stated in the audio, and the surrounding Saul sequence supports the mapping.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260607.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=138069&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "1 Samuel",
+          "chapters": [
+            13
+          ]
+        }
+      ],
+      "searchText": "着急的扫罗王 anxious king saul zháo jí de sǎo luó wáng 1 samuel 13:1-15 hsk 5 the transcript explicitly names saul as israel's first king, recounts his victory over the ammonites, then moves to the philistine conflict at gilgal where samuel tells him to wait seven days. saul grows anxious, offers the sacrifice himself, and samuel rebukes him for not keeping the command. the episode title is stated in the audio, and the surrounding saul sequence supports the mapping. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260510",
       "date": "20260510",
