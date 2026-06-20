@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-06-06T21:04:42.146Z",
-  "episodeCount": 385,
+  "generatedAtUtc": "2026-06-20T21:56:33.043Z",
+  "episodeCount": 387,
   "bookOrder": [
     "Genesis",
     "Exodus",
@@ -70,6 +70,65 @@
     "Revelation"
   ],
   "episodes": [
+    {
+      "id": "20260621",
+      "date": "20260621",
+      "displayDate": "2026-06-21",
+      "pubDate": "Sun, 21 Jun 2026 00:00:00 +0800",
+      "titleZh": "一见如故的好朋友",
+      "titleEn": "Friends at First Sight",
+      "pinyin": "yí jiàn rú gù de hǎo péng yǒu",
+      "reference": "1 Samuel 17:1-19:10",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "The transcript explicitly names the story as a close-friends-at-first-sight friendship between David and Jonathan. It covers David and Goliath, David meeting Saul, Jonathan's covenant friendship with David, Saul's jealousy, Jonathan defending David before Saul, and David fleeing after Saul throws a spear. The title is stated in the audio, and the surrounding David/Jonathan arc supports the mapping.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260621.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=138415&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "1 Samuel",
+          "chapters": [
+            17,
+            18,
+            19
+          ]
+        }
+      ],
+      "searchText": "一见如故的好朋友 friends at first sight yí jiàn rú gù de hǎo péng yǒu 1 samuel 17:1-19:10 hsk 5 the transcript explicitly names the story as a close-friends-at-first-sight friendship between david and jonathan. it covers david and goliath, david meeting saul, jonathan's covenant friendship with david, saul's jealousy, jonathan defending david before saul, and david fleeing after saul throws a spear. the title is stated in the audio, and the surrounding david/jonathan arc supports the mapping. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
+    {
+      "id": "20260614",
+      "date": "20260614",
+      "displayDate": "2026-06-14",
+      "pubDate": "Sun, 14 Jun 2026 00:00:00 +0800",
+      "titleZh": "约拿单的信心",
+      "titleEn": "Jonathan's Faith",
+      "pinyin": "yuē ná dān de xìn xīn",
+      "reference": "1 Samuel 13:16-14:46",
+      "hskEstimate": "HSK 5",
+      "confidence": "high",
+      "notes": "The transcript opens by naming the story as Jonathan's faith. It recounts Saul waiting at Gilgal, Jonathan and his armor-bearer attacking the Philistine outpost, Saul's hasty sacrifice, Jonathan tasting the honey, Saul's oath, the failed lots, and the people rescuing Jonathan. The title is explicit in the audio and the Saul/Jonathan sequence supports the mapping.",
+      "readerKey": "qingqing-jiejie",
+      "readerLabel": "青青姐姐 | Qing Qing Jie Jie",
+      "readerShortLabel": "Qing Qing Jie Jie",
+      "audioUrl": "https://a.pcly.work/ly/audio/2026/cs/cs260614.mp3",
+      "sourcePageUrl": "https://f.pcly.work/index.php?option=com_sermonspeaker&view=sermon&id=138311&Itemid=502",
+      "sourceType": "feed",
+      "books": [
+        {
+          "book": "1 Samuel",
+          "chapters": [
+            13,
+            14
+          ]
+        }
+      ],
+      "searchText": "约拿单的信心 jonathan's faith yuē ná dān de xìn xīn 1 samuel 13:16-14:46 hsk 5 the transcript opens by naming the story as jonathan's faith. it recounts saul waiting at gilgal, jonathan and his armor-bearer attacking the philistine outpost, saul's hasty sacrifice, jonathan tasting the honey, saul's oath, the failed lots, and the people rescuing jonathan. the title is explicit in the audio and the saul/jonathan sequence supports the mapping. 青青姐姐 | qing qing jie jie qing qing jie jie"
+    },
     {
       "id": "20260607",
       "date": "20260607",
